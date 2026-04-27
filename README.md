@@ -42,6 +42,8 @@ Kadiriyye ekolünün sadece fikri değil, ameli mirası da arşivimizin bir par�
 
 ---
 
+![Biyografi](assets/biography_banner.png)
+
 ## 🏛️ Tarihsel Arka Plan ve Şahsiyeti
 
 ### Dönemin Siyasi ve İlmi Atmosferi
@@ -89,27 +91,7 @@ Hazret-i Gavs, o derece yüksek bir mertebeye ve harika kerametlere mazhardır k
 
 ---
 
-## 📜 Risale-i Nur Perspektifi: Bediüzzaman ve Gavs-ı Azam
-
-Bediüzzaman Said Nursi, Abdülkadir Geylani'yi (Gavsu'l-A'zam) manevi bir üstad, hamî (koruyucu) ve **"Güneş gibi bir mu‘cize-i Muhammediye"** olarak vasıflandırır. Risale-i Nur külliyatında bu ilişki çok derin bir boyutta ele alınır:
-
-* **Manevi Üstadlık:** Bediüzzaman, "Eski Said"den "Yeni Said"e geçiş sürecinde, Geylani'nin *Fütûhu'l-Gayb* eserinin kendisine bir "manevi tabib" gibi şifa olduğunu ve ruhundaki derin yaraları iyileştirdiğini belirtir.
-* **Sekizinci Lem'a ve Keramet-i Gavsiye:** *Sikke-i Tasdik-i Gaybi* adlı eserde, Geylani'nin 800 yıl önceden kerametkârâne bir şekilde Risale-i Nur hizmetine ve Bediüzzaman'a işaret ettiği dökümante edilmiştir.
-* **Gavs'ın İmzası:** Said Nursi, Risale-i Nur'un makbuliyetine dair en büyük manevi delillerden birinin, Gavs-ı Azam'ın manevi tasdiki ve teşviki olduğunu ifade eder.
-
-### Risale-i Nur'dan Vecizeler ve İşaretler
-
-> **"اَنْتَ فِى دَارِ الْحِكْمَةِ فَاطْلُبْ طَبِيبًا يُدَاوِى قَلْبَكَ"**
-> *"Sen Dârü'l-Hikmeti'l-İslâmiye'de bir âzâ olmak cihetiyle güya bir hekimsin... Halbuki, en ziyade hasta sensin. Sen, evvel kendine tabib ara, şifa bul; sonra başkasının şifasına çalış."*
-> — **(Fütûhu'l-Gayb'dan Bediüzzaman'ın kalbine hitap eden ihtar)**
-
-> *"Hazret-i Gavs, o keramet-i acibeye dair olan kasidesinde, dairesi içinde bulunan talebelerine hususan bu zamanda hizmet-i Kur'âniyede koşanlara tesellî verip, **'Kul ve lâ tehâf!' (Söyle ve korkma!)** diyor."*
-> — **(Sekizinci Lem'a)**
-
-> *"Bu muazzam Gavs-ı Azam (r.a.), sekiz yüz senedir talebelerini ve sevenlerini unutmamış; manevi bir el gibi, en sıkıntılı anlarda Risale-i Nur'un müellifine ve talebelerine feryat-res olmuştur."*
-> — **(Sikke-i Tasdik-i Gaybi)**
-
----
+![Tarih](assets/history_banner.png)
 
 ## 🌍 Kadiriyye Ekolünün Yayılışı ve Etkisi
 
@@ -119,6 +101,8 @@ Abdülkadir Geylani'nin vefatından sonra evlatları ve halifeleri aracılığı
 * **Hint Alt Kıtası:** Bölgedeki İslamlaşma sürecine ve yerel kültürlerle olan etkileşimine dair kayıtlar.
 
 ---
+
+![Eserler](assets/works_banner.png)
 
 ## 📚 Külliyat: Araştırılan Başlıca Eserler
 
