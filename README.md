@@ -81,7 +81,7 @@ Abdülkadir Geylani, Batılı sarkiyatçılar ve İslam araştırmacıları tara
 
 ## 📜 Risale-i Nur Perspektifi: Bediüzzaman ve Gavs-ı Azam
 
-Bediüzzaman Said Nursi, Abdülkadir Geylani'yi (Gavsu'l-A'zam) manevi bir üstad ve hamî (koruyucu) olarak vasıflandırır. Risale-i Nur külliyatında bu ilişki çok derin bir boyutta ele alınır:
+Bediüzzaman Said Nursi, Abdülkadir Geylani'yi (Gavsu'l-A'zam) manevi bir üstad, hamî (koruyucu) ve **"Güneş gibi bir mu‘cize-i Muhammediye"** olarak vasıflandırır. Risale-i Nur külliyatında bu ilişki çok derin bir boyutta ele alınır:
 
 * **Manevi Üstadlık:** Bediüzzaman, "Eski Said"den "Yeni Said"e geçiş sürecinde, Geylani'nin *Fütûhu'l-Gayb* eserinin kendisine bir "manevi tabib" gibi şifa olduğunu ve ruhundaki derin yaraları iyileştirdiğini belirtir.
 * **Sekizinci Lem'a ve Keramet-i Gavsiye:** *Sikke-i Tasdik-i Gaybi* adlı eserde, Geylani'nin 800 yıl önceden kerametkârâne bir şekilde Risale-i Nur hizmetine ve Bediüzzaman'a işaret ettiği dökümante edilmiştir.
