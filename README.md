@@ -37,16 +37,14 @@ Abdülkadir Geylani, Haçlı Seferleri'nin Kudüs'ü işgal ettiği, Batınilik 
 
 Abdülkadir Geylani'nin büyüklüğü, sadece kendi taraftarları tarafından değil, farklı ekollere mensup, hatta tasavvufa mesafeli duran dönemin en sert alimleri tarafından bile tasdik edilmiştir. Arşivimizde bu tarihi şahitliklere özel bir önem verilmektedir:
 
-* **İzzeddin bin Abdüsselâm (Sultânü'l-Ulemâ):** > *"Şeyh Abdülkadir'in kerametleri bize tevatür yoluyla (yalan söylemesi imkansız bir kalabalık tarafından kitleler halinde) ulaşmıştır. Kendi devrinde ve sonrasında onun gibi bir şahsiyet nadirdir."*
-
-* **İbn Teymiyye:** (Tasavvufi sapmalara karşı en sert eleştirileri getiren alimlerden biri olmasına rağmen Geylani'yi daima istisna tutmuş ve onu "Şeyhimiz" diye anmıştır):
-  > *"Şeyh Abdülkadir, emirlere ve yasaklara uymada (şeriata bağlılıkta) meşayihin en büyüklerindendir. O, Kur'an ve Sünnet'in sınırları içinde kalma konusunda son derece titizdi."* *(Mecmûu'l-Fetâvâ)*
-
-* **İmam Zehebî:**
-  > *"O, Şeyhülislam'dır, ariflerin kutbudur, asrının eşsizidir. İlimde, amelde ve sözlerinde tam bir otoritedir."* *(Siyeru A'lâmi'n-Nübelâ)*
-
-* **İbn Receb el-Hanbelî:**
-  > *"Zamanındaki alimler onun faziletinde, takvasında ve dinin emirlerine olan bağlılığında ittifak etmişlerdir. O, kalplerin tabibi ve dinin ihya edicisiydi."* *(Zeylü Tabakâti'l-Hanâbile)*
+* **İzzeddin bin Abdüsselâm (Sultânü'l-Ulemâ):** > *"Şeyh Abdülkadir'in kerametleri bize tevatür yoluyla ulaşmıştır. Kendi devrinde ve sonrasında onun gibi bir şahsiyet nadirdir."*
+* **İbn Teymiyye:** > *"Şeyh Abdülkadir, emirlere ve yasaklara uymada (şeriata bağlılıkta) meşayihin en büyüklerindendir. O, Kur'an ve Sünnet'in sınırları içinde kalma konusunda son derece titizdi."* *(Mecmûu'l-Fetâvâ)*
+* **İmam Zehebî:** > *"O, Şeyhülislam'dır, ariflerin kutbudur, asrının eşsizidir. İlimde, amelde ve sözlerinde tam bir otoritedir."* *(Siyeru A'lâmi'n-Nübelâ)*
+* **İbn Receb el-Hanbelî:** > *"Zamanındaki alimler onun faziletinde, takvasında ve dinin emirlerine olan bağlılığında ittifak etmişlerdir. O, kalplerin tabibiydi."* *(Zeylü Tabakâti'l-Hanâbile)*
+* **İbnü'l-Cevzî:** (Geylani'nin çağdaşı ve titiz bir tenkitçi olmasına rağmen): > *"Şeyh Abdülkadir, Bağdat'ta benzeri görülmemiş bir irşad halkası kurmuştur. Onun elinde binlerce gayrimüslim İslam'la şereflenmiş, on binlerce fâsık tövbe etmiştir."* *(el-Muntazam)*
+* **Şeyh el-Yafiî:** > *"O, ariflerin kalesi, hakikat ehlinin önderidir. Tasavvuf yolunda onun derecesine ulaşabilen pek az şahsiyet vardır."* *(Mir'âtü'l-Cinân)*
+* **İmam Şarânî:** > *"Şeyh Abdülkadir'e sevgi beslemek ve onun yoluna hürmet etmek, her mümin için bir bereket vesilesidir. O, zahir ve batın ilimlerini kendisinde cem etmiştir."* *(et-Tabakâtü'l-Kübrâ)*
+* **İmam Sühreverdî:** > *"Şeyh Abdülkadir'in meclisinde bulunanlar, sanki asr-ı saadetten bir meltem hissederlerdi. Onun heybeti ve nuru kalpleri titretirdi."*
 
 ---
 
