@@ -1,5 +1,7 @@
 
 
+![Abdülkadir Geylani Arşivi](assets/banner.png)
+
 # 📜 Abdülkadir Geylani (k.s) Araştırma ve Biyografi Arşivi
 
 > *"İlim, ezber edilen şey değil, ezber edilen şeyden sağlanan faydadır. Kalbini dünyaya, sırrını ahirete, ruhunu ise Hakk'a teslim et."*
