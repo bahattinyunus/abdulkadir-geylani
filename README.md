@@ -22,6 +22,24 @@ Bu depo (repository), sıradan bir hayat hikayesi sunmanın ötesine geçerek; A
 
 ---
 
+## 🔍 Araştırma Metodolojimiz: Tahkik ve Eleştiri
+
+Bu arşivde bilginin işlenişi rastgele bir derleme değil, belirli bir akademik filtreden geçiş sürecidir:
+* **Metin Tenkidi:** Geylani'ye nisbet edilen eserlerin (Örn: *Fuyuzâtü'r-Rabbâniyye*) aidiyet tartışmaları, el yazması nüshalar ve müstensihat üzerinden değerlendirilir.
+* **Tarihsel Tutarlılık:** Menkıbevi anlatımlar, dönemin siyasi kronolojisi ve coğrafi imkanlarıyla karşılaştırılarak süzgeçten geçirilir.
+* **Dilsel Analiz:** Arapça orijinal metinlerdeki ıstılahların, 12. yüzyıl Bağdat ulemasının dil kullanımıyla olan uyumu incelenir.
+
+---
+
+## ✨ Manevi Miras: Evrad, Zikir ve Dualar
+
+Kadiriyye ekolünün sadece fikri değil, ameli mirası da arşivimizin bir parçasıdır:
+* **Evrad-ı Kadiriyye:** Şeyh'in tertip ettiği sabah ve akşam zikirleri.
+* **Kaside-i Gavsiyye:** Tasavvuf edebiyatında sembolik dili ve manevi derinliğiyle bilinen manzum eser.
+* **Beşâiru'l-Hayrât:** Efendimiz (s.a.v) üzerine yazılmış kapsamlı bir salavat-ı şerife derlemesi.
+
+---
+
 ## 🏛️ Tarihsel Arka Plan ve Şahsiyeti
 
 ### Dönemin Siyasi ve İlmi Atmosferi
