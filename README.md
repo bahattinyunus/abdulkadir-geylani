@@ -87,7 +87,17 @@ Bediüzzaman Said Nursi, Abdülkadir Geylani'yi (Gavsu'l-A'zam) manevi bir üsta
 * **Sekizinci Lem'a ve Keramet-i Gavsiye:** *Sikke-i Tasdik-i Gaybi* adlı eserde, Geylani'nin 800 yıl önceden kerametkârâne bir şekilde Risale-i Nur hizmetine ve Bediüzzaman'a işaret ettiği dökümante edilmiştir.
 * **Gavs'ın İmzası:** Said Nursi, Risale-i Nur'un makbuliyetine dair en büyük manevi delillerden birinin, Gavs-ı Azam'ın manevi tasdiki ve teşviki olduğunu ifade eder.
 
-> *"O Hazret-i Gavs (r.a.), o keramet-i acibeye dair olan kasidesinde, dairesi içinde bulunan talebelerine hususan bu zamanda hizmet-i Kur'âniyede koşanlara tesellî verip, 'Korkma, söyle!' diyor."* *(Sekizinci Lem'a)*
+### Risale-i Nur'dan Vecizeler ve İşaretler
+
+> **"اَنْتَ فِى دَارِ الْحِكْمَةِ فَاطْلُبْ طَبِيبًا يُدَاوِى قَلْبَكَ"**
+> *"Sen Dârü'l-Hikmeti'l-İslâmiye'de bir âzâ olmak cihetiyle güya bir hekimsin... Halbuki, en ziyade hasta sensin. Sen, evvel kendine tabib ara, şifa bul; sonra başkasının şifasına çalış."*
+> — **(Fütûhu'l-Gayb'dan Bediüzzaman'ın kalbine hitap eden ihtar)**
+
+> *"Hazret-i Gavs, o keramet-i acibeye dair olan kasidesinde, dairesi içinde bulunan talebelerine hususan bu zamanda hizmet-i Kur'âniyede koşanlara tesellî verip, **'Kul ve lâ tehâf!' (Söyle ve korkma!)** diyor."*
+> — **(Sekizinci Lem'a)**
+
+> *"Bu muazzam Gavs-ı Azam (r.a.), sekiz yüz senedir talebelerini ve sevenlerini unutmamış; manevi bir el gibi, en sıkıntılı anlarda Risale-i Nur'un müellifine ve talebelerine feryat-res olmuştur."*
+> — **(Sikke-i Tasdik-i Gaybi)**
 
 ---
 
