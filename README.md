@@ -5,6 +5,8 @@
 > *"İlim, ezber edilen şey değil, ezber edilen şeyden sağlanan faydadır. Kalbini dünyaya, sırrını ahirete, ruhunu ise Hakk'a teslim et."*
 > — **Abdülkadir Geylani (Gavsu'l-A'zam)**
 
+> *"Yazıklar olsun size! Gölgeyi asıl, rızıklananı rızık verici, kulları mâlik, fakiri zengin, acizi güçlü, ölüyü diri sandınız... Dünyayı kalbinizde değil, elinizde tutun."* > — **Abdülkadir Geylani (Gavsu'l-A'zam)**
+
 Bu açık kaynaklı araştırma arşivi; 12. yüzyılın en büyük İslam alimlerinden, müfessir, mutasavvıf ve Kadiriyye ekolünün pîri **Abdülkadir Geylani'nin (1077-1166)** hayatını, tarihi arka planını, eserlerini ve İslam coğrafyasındaki etkilerini akademik bir disiplinle incelemek, derlemek ve dijitalleştirmek amacıyla kurulmuştur.
 
 ---
