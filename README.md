@@ -53,6 +53,33 @@ Abdülkadir Geylani, Haçlı Seferleri'nin Kudüs'ü işgal ettiği, Batınilik 
 * **Soy Ağacı:** Baba tarafından Hz. Hasan'a (Seyyid), anne tarafından Hz. Hüseyin'e (Şerif) dayanır. 
 * **Manevi Şeceresi:** Tasavvufi eğitimi, Ebu Sa'd el-Muharrimi aracılığıyla Cüneyd-i Bağdadi, Ma'ruf-u Kerhi ve Hasan-ı Basri silsilesinden doğrudan Hz. Ali'ye ve Hz. Muhammed'e (s.a.v) ulaşır.
 
+### 📜 Tahsil Hayatı ve İlmi Silsilesi
+Bağdat'ın en büyük alimlerinden dersler almış, alet ilimlerinde ve ali ilimlerde (tefsir, hadis, fıkıh) otorite olmuştur:
+* **Fıkıh ve Usul:** Ebu’l-Hattab el-Kelvezâni ve Hanbeli fıkhının dev ismi Ebu’l-Vefa bin Akil.
+* **Hadis:** Ebu Galib el-Bakıllani ve Ebu’l-Kasım bin Beyan.
+* **Adab ve Tasavvuf:** Ebu’l-Hayr Muhammed bin Müslim ed-Debbas (Manevi terbiye başlangıcı).
+
+### 🛡️ Sosyal Islah ve Bağdat'taki Dönüşüm
+Geylani'nin irşadı sadece bireysel kalmamış, koca bir şehri dönüştürmüştür:
+* **Haramdan Arınma:** Vaazları sayesinde Bağdat'ın eşkıyaları tövbe etmiş, şehirdeki asayiş ve ahlak seviyesi manevi bir otoriteyle tesis edilmiştir.
+* **Zulme Karşı Duruş:** Halifelerden sultanlara kadar her sınıfa hakikati korkusuzca haykırmış, adaletin ve mazlumların hamisi olmuştur.
+* **İlim-Zühd Sentezi:** Toplumu pasif bir köşeye çekilme yerine, hayatın içinde ama Allah ile beraber olma (Halvet der Encümen) şuuruna davet etmiştir.
+
+---
+
+### 💎 Kadiriyye'nin On Temel Esası (Düsturlar)
+Arşivimizde süzgeçten geçirilen eserlere göre Geylani ekolünün temel taşı hükmündeki on prensip:
+1. **Sıdk:** Her hal ve sözde dosdoğru olmak.
+2. **İhlas:** Amelleri sadece Allah rızası için yapmak.
+3. **Sabır:** Bela ve musibetlere karşı rıza ile mukavemet.
+4. **Rıza:** İlahi takdire tam bir teslimiyetle boyun eğmek.
+5. **Şükür:** Verilen nimetleri O'nun yolunda kullanarak mukabele etmek.
+6. **Züht:** Dünyanın kalbe girmesine izin vermeden eldekiyle yetinmek.
+7. **Tevekkül:** Esbaba sarıldıktan sonra sonucu mutlak olarak Allah'tan beklemek.
+8. **Muhabbet:** Kalbin daima Allah ve Resulü'nün aşkıyla dolu olması.
+9. **Marifet:** Hakk'ı eserleri ve tecellileriyle tanıma derdi.
+10. **İstiğna:** Allahtan gayrı hiçbir şeye ve kimseye muhtaç olmama hali.
+
 ---
 
 ## 🗣️ Ulemanın Şehadeti: Hakkında Söylenilenler
@@ -81,15 +108,7 @@ Abdülkadir Geylani, Batılı sarkiyatçılar ve İslam araştırmacıları tara
 
 ---
 
-## 🌎 Cihanşümül Bir Değer: İtiraf ve Şehadetler
 
-Hazret-i Gavs, o derece yüksek bir mertebeye ve harika kerametlere mazhardır ki, kendi döneminin ve sonraki asırların en katı muhalifleri dahi onun büyüklüğünü teslim etmek zorunda kalmışlardır:
-
-* **Gayrimüslim Müsteşrikler:** Bir grup gayrimüslim araştırmacı, *"Biz İslâmiyet’i kabul edemiyoruz. Fakat Abdülkadir Geylânî’yi de inkâr edemiyoruz."* diyerek onun şahsiyetindeki tartışmasız heybeti itiraf etmişlerdir.
-* **Vahhabi Müellifler:** Evliyayı ve kerametleri inkar edenlerin en müfrit kısımları dahi, Geylani Hazretleri'nin celalet ve kemalatı karşısında sessiz kalıp onu inkar edememişlerdir.
-* **Ehl-i Tarikat:** Bütün tasavvuf ekolleri, onun makamına hiçbir evliyanın yetişemeyeceği hususunda icma etmiş (söz birliği yapmış), onu **"Sultânü'l-Evliyâ"** olarak selamlamışlardır.
-
----
 
 ![Tarih](assets/history_banner.png)
 
