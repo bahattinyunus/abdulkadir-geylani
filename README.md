@@ -79,6 +79,16 @@ Abdülkadir Geylani, Batılı sarkiyatçılar ve İslam araştırmacıları tara
 
 ---
 
+## 🌎 Cihanşümül Bir Değer: İtiraf ve Şehadetler
+
+Hazret-i Gavs, o derece yüksek bir mertebeye ve harika kerametlere mazhardır ki, kendi döneminin ve sonraki asırların en katı muhalifleri dahi onun büyüklüğünü teslim etmek zorunda kalmışlardır:
+
+* **Gayrimüslim Müsteşrikler:** Bir grup gayrimüslim araştırmacı, *"Biz İslâmiyet’i kabul edemiyoruz. Fakat Abdülkadir Geylânî’yi de inkâr edemiyoruz."* diyerek onun şahsiyetindeki tartışmasız heybeti itiraf etmişlerdir.
+* **Vahhabi Müellifler:** Evliyayı ve kerametleri inkar edenlerin en müfrit kısımları dahi, Geylani Hazretleri'nin celalet ve kemalatı karşısında sessiz kalıp onu inkar edememişlerdir.
+* **Ehl-i Tarikat:** Bütün tasavvuf ekolleri, onun makamına hiçbir evliyanın yetişemeyeceği hususunda icma etmiş (söz birliği yapmış), onu **"Sultânü'l-Evliyâ"** olarak selamlamışlardır.
+
+---
+
 ## 📜 Risale-i Nur Perspektifi: Bediüzzaman ve Gavs-ı Azam
 
 Bediüzzaman Said Nursi, Abdülkadir Geylani'yi (Gavsu'l-A'zam) manevi bir üstad, hamî (koruyucu) ve **"Güneş gibi bir mu‘cize-i Muhammediye"** olarak vasıflandırır. Risale-i Nur külliyatında bu ilişki çok derin bir boyutta ele alınır:
