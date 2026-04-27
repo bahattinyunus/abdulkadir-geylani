@@ -79,6 +79,18 @@ Abdülkadir Geylani, Batılı sarkiyatçılar ve İslam araştırmacıları tara
 
 ---
 
+## 📜 Risale-i Nur Perspektifi: Bediüzzaman ve Gavs-ı Azam
+
+Bediüzzaman Said Nursi, Abdülkadir Geylani'yi (Gavsu'l-A'zam) manevi bir üstad ve hamî (koruyucu) olarak vasıflandırır. Risale-i Nur külliyatında bu ilişki çok derin bir boyutta ele alınır:
+
+* **Manevi Üstadlık:** Bediüzzaman, "Eski Said"den "Yeni Said"e geçiş sürecinde, Geylani'nin *Fütûhu'l-Gayb* eserinin kendisine bir "manevi tabib" gibi şifa olduğunu ve ruhundaki derin yaraları iyileştirdiğini belirtir.
+* **Sekizinci Lem'a ve Keramet-i Gavsiye:** *Sikke-i Tasdik-i Gaybi* adlı eserde, Geylani'nin 800 yıl önceden kerametkârâne bir şekilde Risale-i Nur hizmetine ve Bediüzzaman'a işaret ettiği dökümante edilmiştir.
+* **Gavs'ın İmzası:** Said Nursi, Risale-i Nur'un makbuliyetine dair en büyük manevi delillerden birinin, Gavs-ı Azam'ın manevi tasdiki ve teşviki olduğunu ifade eder.
+
+> *"O Hazret-i Gavs (r.a.), o keramet-i acibeye dair olan kasidesinde, dairesi içinde bulunan talebelerine hususan bu zamanda hizmet-i Kur'âniyede koşanlara tesellî verip, 'Korkma, söyle!' diyor."* *(Sekizinci Lem'a)*
+
+---
+
 ## 🌍 Kadiriyye Ekolünün Yayılışı ve Etkisi
 
 Abdülkadir Geylani'nin vefatından sonra evlatları ve halifeleri aracılığıyla Kadiriyye ekolü, İslam coğrafyasının en geniş alana yayılan tasavvufi akımı olmuştur:
