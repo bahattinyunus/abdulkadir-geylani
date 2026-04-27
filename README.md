@@ -48,6 +48,17 @@ Abdülkadir Geylani'nin büyüklüğü, sadece kendi taraftarları tarafından d
 
 ---
 
+## 🌍 Garb'ın Gözüyle: Müslüman Olmayan Müsteşriklerin Değerlendirmeleri
+
+Abdülkadir Geylani, Batılı sarkiyatçılar ve İslam araştırmacıları tarafından da tarihsel ve sosyolojik bir fenomon olarak yakından incelenmiştir:
+
+* **Louis Massignon:** > *"Abdülkadir Geylani, İslam velayet hiyerarşisinin en tepesinde, hem bir fakih hem de bir mistik olarak sarsılmaz bir yere sahiptir. O, kurumsallaşmış tasavvufun en büyük mimarlarındandır."*
+* **Annemarie Schimmel:** > *"Geylani'nin Kadiriyye yolu, sadece bireysel bir aydınlanma değil, İslam toplumunun hukuki (Hanbeli) ve manevi temelini birleştiren devasa bir köprüdür. O, halkın kalbine hitap eden bir mürşid-i kâmildir."*
+* **J. Spencer Trimingham:** > *"Kadiriyye, onun ismiyle meşrulaşarak tarihin en geniş coğrafyasına yayılan ve İslam'ın evrensel mesajını yerel kültürlere taşıyan, tarihin gördüğü en organize ruhsal güçlerden biridir."*
+* **Henry Corbin:** > *"Geylani'nin eserlerindeki derinlik, zahir ile batın arasındaki o narin dengeyi korumadaki başarısı, onu tasavvuf düşünürleri arasında seçkin bir konuma taşır."*
+
+---
+
 ## 🌍 Kadiriyye Ekolünün Yayılışı ve Etkisi
 
 Abdülkadir Geylani'nin vefatından sonra evlatları ve halifeleri aracılığıyla Kadiriyye ekolü, İslam coğrafyasının en geniş alana yayılan tasavvufi akımı olmuştur:
