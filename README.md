@@ -140,41 +140,59 @@ Bu arşivde metin analizi, şerh ve çeviri karşılaştırması yapılan temel 
 
 Bilgiyi akademik bir standartta yönetebilmek için arşivimiz aşağıdaki gibi tasnif edilmiştir:
 
-```text
+```	ext
 abdulkadir-geylani-arsivi/
 │
 ├── 📁 01-biyografi/                  # Doğrulanmış tarihi kaynaklara göre hayat kronolojisi
-│   ├── nesebi-ve-ailesi.md
-│   ├── bagdat-ve-tahsil-yillari.md
-│   └── irsad-ve-medrese-donemi.md
+│   ├── nesebi-ve-ailesi.md           # Haseb, neseb, Ehl-i Beyt şeceresi ve evlatları
+│   ├── bagdat-ve-tahsil-yillari.md   # Hicret, 40 altın hadisesi, hocaları ve zahiri ilimler
+│   └── irsad-ve-medrese-donemi.md    # 25 yıllık uzlet, Bâbülezec Külliyesi ve 70 bin kişilik meclisler
 │
 ├── 📁 02-tarihsel-baglam/            # Yaşadığı dönemin siyasi, sosyal ve ilmi analizi
-│   ├── abbasi-ve-selcuklu-donemi.md
-│   └── cagin-fikri-akimlarina-karsi-tutumu.md
+│   ├── abbasi-ve-selcuklu-donemi.md  # Hilafet, Selçuklular, Haçlı Seferleri ve Selahaddin nesli
+│   ├── cagin-fikri-akimlarina-karsi-tutumu.md # Bâtınîlik, İbâhiyye, felsefe ve kelâm fırkaları
+│   └── nizamiyye-medreseleri-ve-ilmi-ortam.md  # Nizâmiye modeli, İmam Gazzâlî ve sivil vakıf sistemi
 │
-├── 📁 03-eserler-ve-metinler/        # Kitaplarının bölüm incelemeleri ve orijinal metin karşılaştırmaları
-│   ├── futuhul-gayb/            
-│   ├── el-fethur-rabbani/
-│   ├── gunyetut-talibin/
-│   └── kasideler-ve-mektubat/
+├── 📁 03-eserler-ve-metinler/        # Kitaplarının bölüm incelemeleri ve metin analizleri
+│   ├── futuhul-gayb/                 # 78 makale, kader sırrı ve teslimiyet
+│   │   ├── README.md
+│   │   ├── 01-temel-ilkeler-ve-kader.md
+│   │   └── ibn-teymiyye-serhi.md     # İbn Teymiyye'nin Fütûhu'l-Gayb şerhi
+│   ├── el-fethur-rabbani/            # 62 vaaz zabıtları ve toplumsal ıslahat
+│   │   ├── README.md
+│   │   └── secmeler-ve-meclisler.md
+│   ├── gunyetut-talibin/             # Akaid, fıkıh, adab ve tasavvuf ansiklopedisi
+│   │   └── README.md
+│   ├── kasideler-ve-mektubat/        # Manzumeler, mektuplar ve virdler
+│   │   ├── README.md
+│   │   ├── kaside-i-gavsiyye-metin-ve-serh.md
+│   │   └── mektubat-secmeler.md
+│   ├── sirrul-esrar.md               # 24 fasıl, dört ruh mertebesi ve ledün ilmi
+│   └── cilauk-hatir.md               # 45 meclis, kalbin manevi cilası ve arınma
 │
 ├── 📁 04-kavramlar-ve-terminoloji/   # Geylani ekolüne özel tasavvufi kavramlar sözlüğü
-│   ├── nefs-mertebeleri.md
-│   ├── fena-ve-beka.md
-│   └── tevhid-i-efal.md
+│   ├── nefs-mertebeleri.md           # 7 nefis makamı, zikirleri ve terbiyesi
+│   ├── fena-ve-beka.md               # İradeden tecerrüd, Fenâfillâh ve Bekâbillâh
+│   ├── tevhid-i-efal.md              # Fiil, sıfat ve zat tevhidi, gizli şirkin ilacı
+│   ├── gavsiyet-kutbiyet-ferdiyet.md # Manevi hiyerarşi, Gavs-ı A'zam rütbesi
+│   └── zuhd-ve-vera.md               # Lokma hassasiyeti, istiğna ve vakar
 │
 ├── 📁 05-kadiriyye-tarihi/           # Tarikatın coğrafi yayılışı ve önemli şahsiyetler
-│   ├── anadolu-ve-balkanlar.md
-│   └── kuzey-afrika-etkisi.md
+│   ├── anadolu-ve-balkanlar.md       # Eşrefoğlu Rûmî, İsmail Rûmî, Tophane Âsitânesi, Bosna
+│   ├── kuzey-afrika-etkisi.md        # Ebû Medyen, zâviyeler ve Emîr Abdülkâdir el-Cezâyirî cihat hareketi
+│   ├── hindistan-ve-guneydogu-asya.md # Babürlüler, Mian Mir, Hamza Fansûrî ve Banten direnişi
+│   └── kollari-ve-subeleri.md        # Eşrefiyye, Rûmiyye, Hâlisiyye, Bûtşîşiyye vb.
 │
-├── 📁 06-makaleler-ve-tezler/        # Geylani hakkında yazılmış akademik araştırmalar
-│   └── makale-indeksi.md
+├── 📁 06-makaleler-ve-tezler/        # Akademik literatür ve araştırmacılar için rehber
+│   ├── makale-indeksi.md             # DİA, akademik makaleler ve lisansüstü tezler indeksi
+│   └── tez-ve-arastirma-onerileri.md # Yazma eser, tarih ve din felsefesi araştırma önerileri
 │
-├── 📁 07-kaynakca/                   # İleri okuma listesi, dijital kütüphane linkleri ve bibliyografya
+├── 📁 07-kaynakca/                   # Klasik tabakatlar, modern araştırmalar ve dijital kütüphaneler
+│   └── bibliyografya.md
 │
 ├── CONTRIBUTING.md                   # Araştırmacılar için katkı rehberi ve metodoloji kuralları
 └── README.md                         # Proje ana dökümantasyonu
-```
+`
 
 ---
 
