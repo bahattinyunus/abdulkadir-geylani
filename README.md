@@ -146,12 +146,15 @@ abdulkadir-geylani-arsivi/
 ├── 📁 01-biyografi/                  # Doğrulanmış tarihi kaynaklara göre hayat kronolojisi
 │   ├── nesebi-ve-ailesi.md           # Haseb, neseb, Ehl-i Beyt şeceresi ve evlatları
 │   ├── bagdat-ve-tahsil-yillari.md   # Hicret, 40 altın hadisesi, hocaları ve zahiri ilimler
-│   └── irsad-ve-medrese-donemi.md    # 25 yıllık uzlet, Bâbülezec Külliyesi ve 70 bin kişilik meclisler
+│   ├── irsad-ve-medrese-donemi.md    # 25 yıllık uzlet, Bâbülezec Külliyesi ve 70 bin kişilik meclisler
+│   ├── menakib-ve-kerametler-tahlili.md # Behcetü'l-Esrâr tenkidi, 'istikamet kerametten üstündür' ilkesi
+│   └── vefati-ve-kulliyesi-tarihi.md # Vefatı, vasiyetleri, Mimar Sinan ve Osmanlı ihya süreci
 │
 ├── 📁 02-tarihsel-baglam/            # Yaşadığı dönemin siyasi, sosyal ve ilmi analizi
-│   ├── abbasi-ve-selcuklu-donemi.md  # Hilafet, Selçuklular, Haçlı Seferleri ve Selahaddin nesli
+│   ├── abbasi-ve-selcuklu-donemi.md  # Hilafet, Selçuklular, Haçlı Seferleri ve siyasi buhran
 │   ├── cagin-fikri-akimlarina-karsi-tutumu.md # Bâtınîlik, İbâhiyye, felsefe ve kelâm fırkaları
-│   └── nizamiyye-medreseleri-ve-ilmi-ortam.md  # Nizâmiye modeli, İmam Gazzâlî ve sivil vakıf sistemi
+│   ├── nizamiyye-medreseleri-ve-ilmi-ortam.md  # Nizâmiye modeli, İmam Gazzâlî ve sivil vakıf sistemi
+│   └── selahaddin-nesli-ve-kileyani-tezi.md # Dr. Kîleynî tezi: Kudüs fethini hazırlayan 50 yıllık irfan nesli
 │
 ├── 📁 03-eserler-ve-metinler/        # Kitaplarının bölüm incelemeleri ve metin analizleri
 │   ├── futuhul-gayb/                 # 78 makale, kader sırrı ve teslimiyet
@@ -162,11 +165,13 @@ abdulkadir-geylani-arsivi/
 │   │   ├── README.md
 │   │   └── secmeler-ve-meclisler.md
 │   ├── gunyetut-talibin/             # Akaid, fıkıh, adab ve tasavvuf ansiklopedisi
-│   │   └── README.md
+│   │   ├── README.md
+│   │   └── akaid-ve-firkalar-tahlili.md # Ehl-i Sünnet akidesi ve 73 fırkanın reddiyesi
 │   ├── kasideler-ve-mektubat/        # Manzumeler, mektuplar ve virdler
 │   │   ├── README.md
 │   │   ├── kaside-i-gavsiyye-metin-ve-serh.md
-│   │   └── mektubat-secmeler.md
+│   │   ├── mektubat-secmeler.md
+│   │   └── evrad-ve-salavat-i-kadiriyye.md # Beşâiru'l-Hayrât ve Kibriyet-i Ahmer duası
 │   ├── sirrul-esrar.md               # 24 fasıl, dört ruh mertebesi ve ledün ilmi
 │   └── cilauk-hatir.md               # 45 meclis, kalbin manevi cilası ve arınma
 │
@@ -175,26 +180,27 @@ abdulkadir-geylani-arsivi/
 │   ├── fena-ve-beka.md               # İradeden tecerrüd, Fenâfillâh ve Bekâbillâh
 │   ├── tevhid-i-efal.md              # Fiil, sıfat ve zat tevhidi, gizli şirkin ilacı
 │   ├── gavsiyet-kutbiyet-ferdiyet.md # Manevi hiyerarşi, Gavs-ı A'zam rütbesi
-│   └── zuhd-ve-vera.md               # Lokma hassasiyeti, istiğna ve vakar
+│   ├── zuhd-ve-vera.md               # Lokma hassasiyeti, istiğna ve vakar
+│   └── muhabbetullah-ve-marifetullah.md # İrfani aşk, ibadetin üç seviyesi ve kalb-i selim
 │
 ├── 📁 05-kadiriyye-tarihi/           # Tarikatın coğrafi yayılışı ve önemli şahsiyetler
 │   ├── anadolu-ve-balkanlar.md       # Eşrefoğlu Rûmî, İsmail Rûmî, Tophane Âsitânesi, Bosna
 │   ├── kuzey-afrika-etkisi.md        # Ebû Medyen, zâviyeler ve Emîr Abdülkâdir el-Cezâyirî cihat hareketi
 │   ├── hindistan-ve-guneydogu-asya.md # Babürlüler, Mian Mir, Hamza Fansûrî ve Banten direnişi
-│   └── kollari-ve-subeleri.md        # Eşrefiyye, Rûmiyye, Hâlisiyye, Bûtşîşiyye vb.
+│   ├── kollari-ve-subeleri.md        # Eşrefiyye, Rûmiyye, Hâlisiyye, Bûtşîşiyye vb.
+│   └── kadirilik-ve-osmanli-kulturu.md # Padişah intisapları, tekke mimarisi ve Devran Zikri
 │
 ├── 📁 06-makaleler-ve-tezler/        # Akademik literatür ve araştırmacılar için rehber
 │   ├── makale-indeksi.md             # DİA, akademik makaleler ve lisansüstü tezler indeksi
 │   └── tez-ve-arastirma-onerileri.md # Yazma eser, tarih ve din felsefesi araştırma önerileri
 │
 ├── 📁 07-kaynakca/                   # Klasik tabakatlar, modern araştırmalar ve dijital kütüphaneler
-│   └── bibliyografya.md
+│   ├── bibliyografya.md              # Birincil kaynaklar, tahkikli neşirler ve monografiler
+│   └── yazma-eserler-ve-nushalar-rehberi.md # Süleymaniye, Topkapı, Bağdat vb. el yazması katalog rehberi
 │
 ├── CONTRIBUTING.md                   # Araştırmacılar için katkı rehberi ve metodoloji kuralları
 └── README.md                         # Proje ana dökümantasyonu
-`
-
----
+`---
 
 ## 🤝 Araştırmacılara Çağrı ve Katkı Rehberi (Tahkik Usulü)
 
